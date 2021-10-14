@@ -1,0 +1,104 @@
+/* color pallette
+#141d26 dark blue
+#243447 blue
+#C54B8C pink
+#ffffff white 
+#f8f8ff*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;0,400;1,200;1,300;1,400&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400;1,600&display=swap');
+
+body{
+    background-color: #141d26;
+    margin:auto;
+    font-size: 18px;
+}
+header{
+    background-color:#243447;
+    width:100%;
+    margin: 0;
+    height: 100px
+    
+}
+main{
+    width: 50%;
+    margin:auto;
+
+}
+h1{
+    font-size: 1.5em;
+    padding-top: 38px;
+
+}
+h1,h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #f8f8ff  ;
+    font-style: italic;
+    margin: 0;
+}
+h2{
+    background-color: #243447;
+    color: #C54B8C;
+    padding-left: 30px;
+    font-size: 1em;
+}
+li{
+    padding:0;
+    list-style: none;
+}
+p,a{
+    font-family: 'Open Sans', sans-serif;
+    color: #f8f8ff;
+    font-size: .8em;
+}
+.header-div{
+    width:50%;
+    justify-content: left;
+    margin:auto
+}
+.about-title{
+    padding: 20px 0px 7px 15px;
+    margin-top: 50px;
+}
+.about-title-end{
+    text-align: right;
+    padding: 5px 15px 20px 0px;
+    margin-top: 0
+}
+.about-p{
+    background-color: #243447;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px 35px 10px 35px;
+}
+.projects-title{
+    padding: 20px 0px 5px 15px;
+    margin-top: 50px;
+}
+.projects-title-end{
+    text-align: right;
+    padding: 5px 15px 20px 0px;
+    margin-top: 0
+}
+.projects-link-list{
+    background-color: #243447;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px 35px 10px 35px;
+}
+.projects-link{
+    font-weight: 400;
+    text-decoration: none;
+}
+#more-to-come{
+    color: #009E60;
+    margin: 0px;
+    padding: 0px;
+    font-style: bold;
+    font-weight: 600;
+}
+#WIP{
+    color: #243447;
+    font-family: open Sans;
+    font-size: 1.5em;
+}
