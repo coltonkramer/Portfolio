@@ -24,16 +24,16 @@ main{
     margin:auto;
 
 }
-h1{
-    font-size: 1.5em;
-    padding-top: 38px;
-
-}
 h1,h2{
     font-family: 'Josefin Sans', sans-serif;
     color: #f8f8ff  ;
     font-style: italic;
     margin: 0;
+}
+h1{
+    font-size: 1.5em;
+    padding-top: 38px;
+
 }
 h2{
     background-color: #243447;
@@ -107,7 +107,11 @@ p,a{
     font-weight: 600;
 }
 #WIP{
+    transform: rotate(90deg);
+    float:left;
+    margin-left:-200px;
     color: #243447;
-    font-family: open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.5em;
+    justify-content: left;
 }
