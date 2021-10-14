@@ -45,7 +45,7 @@ li{
     padding:0;
     list-style: none;
 }
-p,a{
+p{
     font-family: 'Open Sans', sans-serif;
     color: #f8f8ff;
     font-size: .8em;
@@ -55,11 +55,11 @@ p,a{
     justify-content: left;
     margin:auto
 }
-.about-title{
+.title{
     padding: 20px 0px 7px 15px;
     margin-top: 50px;
 }
-.about-title-end{
+.title-end{
     text-align: right;
     padding: 5px 15px 20px 0px;
     margin-top: 0
@@ -71,33 +71,18 @@ p,a{
     margin-bottom: 0;
     padding: 10px 35px 10px 35px;
 }
-.projects-title{
-    padding: 20px 0px 5px 15px;
-    margin-top: 50px;
-}
-.projects-title-end{
-    text-align: right;
-    padding: 5px 15px 20px 0px;
-    margin-top: 0
-}
-.projects-link-list{
+.list{
     background-color: #243447;
     margin-top: 0;
     margin-bottom: 0;
     padding: 10px 35px 10px 35px;
 }
-.projects-link{
+.list-item{
+    font-family: 'Open Sans', sans-serif;
+    color: #f8f8ff;
+    font-size: .8em;
     font-weight: 400;
     text-decoration: none;
-}
-.work-title{
-    padding: 20px 0px 5px 15px;
-    margin-top: 50px;
-}
-.work-title-end{
-    text-align: right;
-    padding: 5px 15px 20px 0px;
-    margin-top: 0
 }
 #more-to-come{
     color: #009E60;
@@ -109,7 +94,8 @@ p,a{
 #WIP{
     transform: rotate(90deg);
     float:left;
-    margin-left:-200px;
+    margin-top: -129px;
+    margin-left:-208px;
     color: #243447;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.5em;
