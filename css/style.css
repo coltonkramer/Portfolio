@@ -59,6 +59,7 @@ p{
     margin-top: 0
 }
 .about-p{
+    
     background-color: #243447;
     font-weight: 400;
     margin-top: 0;
@@ -90,7 +91,7 @@ p{
     float:left;
     margin-top: -129px;
     margin-left:-208px;
-    color: #f8f8ff;
+    color: #009E60;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.5em;
     justify-content: left;
