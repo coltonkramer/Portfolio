@@ -44,10 +44,13 @@ p{
     color: #f8f8ff;
     font-size: .8em;
 }
+.icon{
+    height: 50px;
+}
 .header-div{
-    width:50%;
+    width: 50%;
     justify-content: left;
-    margin:auto
+    margin: auto
 }
 .title{
     padding: 20px 0px 7px 15px;
