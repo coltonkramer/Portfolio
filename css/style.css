@@ -31,7 +31,8 @@ h1{
 }
 h2{
     background-color: #243447;
-    color: #C54B8C;
+    /* color: #C54B8C; */
+    color: #f2369a;
     padding-left: 30px;
     font-size: 1em;
 }
